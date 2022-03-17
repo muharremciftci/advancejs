@@ -1,3 +1,4 @@
+//içinde iki kez geçen kayıtları teke indirir
 const dizi=['burak','Burak','Muharrem','burak','ali'];
 console.log(dizi);
 
